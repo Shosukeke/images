@@ -1,5 +1,11 @@
-group,Nitrogen,normal,stress
-banana,12,1,13
-poacee,6,6,33
-sorgho,11,28,12
-triticum,19,6,1
+Location	Quintiles	Value %
+Pakistan	Bottom two	54
+Pakistan	Top Two	52
+Punjab	Bottom two	64
+Punjab	Top Two	55
+Sindh	Bottom two	68
+Sindh	Top Two	41
+KPK	Bottom two	33
+KPK	Top Two	62
+Balochistan	Bottom two	13
+Balochistan	Top Two	21
